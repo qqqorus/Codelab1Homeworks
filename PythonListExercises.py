@@ -2,7 +2,7 @@
 
 # 1. creating a list
 favorite_fruits = ['banana', 'avocado', 'pineapple', 'mangosteen', 'mango']
-print(favorite_fruits)
+print(favorite_fruits) # prints the list
 
 # 2. accessing elements
 colors = ['red', 'blue', 'green', 'yellow', 'purple']
